@@ -1211,3 +1211,7 @@ section {
 .justify {
   text-align: justify;
 }
+
+.social{
+  float:right;
+}
