@@ -14,11 +14,19 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
 }
-
-a {
+.bi.bi-play{
+  font-size: 2rem;
+  position: relative;
+  top: -4%;
+}
+.bi.bi-play:hover{
   color: #0563bb;
+}
+a {
+  color: black;
   text-decoration: none;
 }
+
 
 a:hover {
   color: #067ded;
