@@ -1235,3 +1235,9 @@ section {
 .social{
   float:right;
 }
+
+.bi-play-circle {
+  margin-top: -50em;
+  font-size: 38px;
+  
+}
