@@ -1237,7 +1237,7 @@ section {
 }
 
 .bi-play-circle {
-  margin-top: -50em;
-  font-size: 38px;
-  
+ position: relative;
+ top: -3%;
+  font-size: 38px; 
 }
